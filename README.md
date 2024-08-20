@@ -8,6 +8,6 @@ To evaluate and oversee the bank’s lending operations and performance, we need
 
 **Goals**
 
-Informed Decision-Making: Enable the bank to make well-informed decisions using precise and current loan data.
-Performance Monitoring: Track the performance of the loan portfolio over time.
-Trend Analysis: Detect trends and patterns in lending activities to optimize strategies.
+* Informed Decision-Making: Enable the bank to make well-informed decisions using precise and current loan data.
+* Performance Monitoring: Track the performance of the loan portfolio over time.
+* Trend Analysis: Detect trends and patterns in lending activities to optimize strategies.
